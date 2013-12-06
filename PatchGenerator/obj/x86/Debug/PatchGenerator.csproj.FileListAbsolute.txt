@@ -1,0 +1,12 @@
+c:\users\macbook\documents\visual studio 2010\Projects\PatchGenerator\PatchGenerator\bin\Debug\Patch Generator.exe.config
+c:\users\macbook\documents\visual studio 2010\Projects\PatchGenerator\PatchGenerator\bin\Debug\Patch Generator.exe
+c:\users\macbook\documents\visual studio 2010\Projects\PatchGenerator\PatchGenerator\bin\Debug\Patch Generator.pdb
+c:\users\macbook\documents\visual studio 2010\Projects\PatchGenerator\PatchGenerator\obj\x86\Debug\PatchGenerator.csprojResolveAssemblyReference.cache
+c:\users\macbook\documents\visual studio 2010\Projects\PatchGenerator\PatchGenerator\obj\x86\Debug\Patch Generator.exe
+c:\users\macbook\documents\visual studio 2010\Projects\PatchGenerator\PatchGenerator\obj\x86\Debug\Patch Generator.pdb
+C:\Projects\PatchGenerator\PatchGenerator\bin\Debug\Patch Generator.exe.config
+C:\Projects\PatchGenerator\PatchGenerator\obj\x86\Debug\Patch Generator.exe
+C:\Projects\PatchGenerator\PatchGenerator\obj\x86\Debug\Patch Generator.pdb
+C:\Projects\PatchGenerator\PatchGenerator\bin\Debug\Patch Generator.exe
+C:\Projects\PatchGenerator\PatchGenerator\bin\Debug\Patch Generator.pdb
+C:\Projects\PatchGenerator\PatchGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
